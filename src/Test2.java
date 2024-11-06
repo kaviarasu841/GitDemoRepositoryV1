@@ -1,4 +1,6 @@
 public class Test2 {
+	
+	//change 2
 	public static void main(String args[]) {
 		String hungry = "yes";
 		if(hungry == "yes")
@@ -9,3 +11,4 @@ public class Test2 {
 	}
 
 }
+
