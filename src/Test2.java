@@ -1,6 +1,6 @@
-// change 1
+
 public class Test2 {
-	//change 2
+	
 	public static void main(String args[]) {
 		String hungry = "yes";
 		
