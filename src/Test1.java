@@ -6,6 +6,9 @@ public class Test1 {
 		
 		if(hungry == "yes" || hungry == "YES")
 			System.out.println("eat something....");
+		else if (hungry == "No") {
+			System.out.println("Do something....");
+		}
 		else {
 			System.out.println("Do work...");
 		}
